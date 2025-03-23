@@ -228,11 +228,11 @@ nipype==1.8.6
     #   niworkflows
     #   sdcflows
     #   smriprep
-nireports==23.2.2
+nireports>=23.2.2
     # via fmriprep (pyproject.toml)
 nitime==0.10.2
     # via fmriprep (pyproject.toml)
-nitransforms==23.0.1
+nitransforms>=23.0.1
     # via
     #   fmriprep (pyproject.toml)
     #   niworkflows
